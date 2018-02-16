@@ -1,0 +1,27 @@
+{
+  "name": "ngork",
+  "version": "1.0.0",
+  "description": "Create secure tunnel for your localhost with ngrok",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeAmar/Ngork-for-Node.js-Application.git"
+  },
+  "keywords": [
+    "ngrok"
+  ],
+  "author": "codeamar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeAmar/Ngork-for-Node.js-Application/issues"
+  },
+  "homepage": "https://github.com/codeAmar/Ngork-for-Node.js-Application#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ngrok": "^2.2.26"
+  }
+}
