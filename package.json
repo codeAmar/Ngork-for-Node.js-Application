@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/codeAmar/Ngork-for-Node.js-Application#readme",
   "dependencies": {
+    "dotenv": "^5.0.0",
     "express": "^4.16.2",
     "ngrok": "^2.2.26"
   }
